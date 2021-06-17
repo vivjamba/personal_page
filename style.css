@@ -1,3 +1,21 @@
 .nav{
     background-color: #FE8453;
+    color: black;
+}
+
+.nav-item{
+    padding-top: 20px;
+    color: black;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: black;
+}
+
+.para{
+    color: black;
+}
+
+#name{
+    padding: 20px;
 }
