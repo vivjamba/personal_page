@@ -4,16 +4,22 @@
 }
 
 .nav-item a{
+    padding-top: 30px;
+    color: black;
+}
+
+h4 {
     padding-top: 20px;
-    color: black;
 }
 
-.nav.navbar-nav.navbar-right li a {
-    color: black;
+.para {
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
-.para{
-    color: black;
+body {
+    background-color: #fae4c3;
 }
 
 #name{
